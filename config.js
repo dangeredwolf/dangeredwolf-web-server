@@ -1,5 +1,6 @@
 exports.config = {
     directoryTraversal: true,
+    executeIndexJS:true,
     style: `
 html {
     background:#000;
